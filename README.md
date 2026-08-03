@@ -2,11 +2,6 @@
 
 A production-grade, secure, and optimized backend REST API built using **Django** and **Django REST Framework (DRF)**. This project implements stateless JWT authentication, complex relational schemas (Posts, Comments, Likes), and features an auto-generated, interactive Swagger documentation dashboard.
 
-## 🚀 Live Demo & Documentation
-* **Live API Root:** [https://django-blog-cyxr.onrender.com/api/posts/](https://django-blog-cyxr.onrender.com/api/posts/)
-* **Interactive Swagger UI:** [https://django-blog-cyxr.onrender.com/api/docs/swagger/](https://django-blog-cyxr.onrender.com/api/docs/swagger/)
-* **Redoc View:** [https://django-blog-cyxr.onrender.com/api/docs/redoc/](https://django-blog-cyxr.onrender.com/api/docs/redoc/)
-
 ---
 
 ## 🛠️ Tech Stack & Architecture Decisions
