@@ -1,4 +1,4 @@
-# Hayzed Blog API Engine
+# Divine's Blog API Engine
 
 A production-grade, secure, and optimized backend REST API built using **Django** and **Django REST Framework (DRF)**. This project implements stateless JWT authentication, complex relational schemas (Posts, Comments, Likes), and features an auto-generated, interactive Swagger documentation dashboard.
 
